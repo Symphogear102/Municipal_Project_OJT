@@ -1,0 +1,36 @@
+Social Case Study
+ Templated format of  Case Study
+
+ I. Identifiying Information
+ Name:
+ Age:
+ Birthday:
+ Birthplace:
+ Addess:
+ Educ Attainment:
+ Civil Status: 
+ Occupation:
+ Contact No:
+
+ Family Compositions:
+ Name - Age - Cs - Relationship - Educ Attainment - Occupation - Income (Table Format addjustable)
+
+II. Problem Presented
+
+(NAME) is requesting for ra social case study report to avail financial assistance from your good office. (NIlapitan na tao/office) (His/her) health condition that was diagnosed with (Diagnosed report). The Client has unsettled hospital bill amounting to (Price) and also need to undergo continious medications. Due to the indigent condition to the family, they cannot afford to support his cousin's medication.
+
+III. Family Background:
+(NAME) is a native resident of Obando, Bulacan. (He/She) is living with (His/Her) family for almost (years). They live in their own house made of woodmaterials. The Family fully depends on the income of his mother. However, the income of his family was tooo minimal to support their basic needs. Thus they sought the MSwDo for proper intervention.
+
+IV. Recommendation:
+In the view of fore going information, the undersigned worker respectfully recommends, (NAME) to Avail medical/financial assistance from your good office, (Nilapitan). That due to their indigent conditions, he is found eligible in the said services.
+
+- Need naten ng generation ng report para dito since need i print
+- Function na pwedeng mag dagdag/bawas ng column sa Family Compositions:
+- POssible na mag bawas of mag dagdag ng Family background/recommendation if needed or not sa format
+
+
+
+GENERAL INTAKE SHEET FORM
+Need naten gumawa ng generate report dito
+as well as form dito sa website na matra translate sa page(generate report na printable)
